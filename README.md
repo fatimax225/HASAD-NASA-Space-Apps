@@ -1,4 +1,4 @@
-# HASAD — Smart Farming for a Resilient Future
+# HASAD — Smart Farming 
 
 **A Data-Driven Smart Farming Project for Bahrain**
 
@@ -96,9 +96,6 @@ NASA Space Apps Challenge Bahrain 2026
 
 This recognition was an important milestone for our team and our work on addressing a local agricultural challenge through technology.
 
-## Project Presentation
-
-The project presentation is available in the `docs/` directory.
 
 ## Live Demo
 
